@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+C:\Users\admin\source\repos\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+C:\Users\admin\source\repos\Quanlykhachsan\obj\Debug\Quanlykhachsan.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+C:\Users\admin\source\repos\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+C:\Users\admin\source\repos\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+C:\Users\admin\source\repos\Quanlykhachsan\obj\Debug\Quanlykhachsan.FrmKhachSan.resources
